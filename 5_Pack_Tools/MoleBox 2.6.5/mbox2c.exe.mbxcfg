@@ -1,0 +1,13 @@
+
+box.encrypt=1
+box.packdefault=1
+box.separate=0
+box.ziplevel=1
+exe.crc=0
+exe.pack=1
+exe.packedfilesvisible=1
+exe.source=C:\Users\Administrator\Desktop\MoleBox_35421\ha_MoleBox_2.65\mbox2c.exe
+exe.target=mbox2c.exe.exe
+key.0=4A3A55284D1B1F85073BDCFF13E10B6D
+key.1=2764264043FA074447793BDFE4526FE8
+

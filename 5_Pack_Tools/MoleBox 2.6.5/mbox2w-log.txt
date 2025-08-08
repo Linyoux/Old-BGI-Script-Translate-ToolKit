@@ -1,0 +1,15 @@
+MoleBox Pro 2.6.5.2570 ∫∫ªØ£∫∫¸¿Í…Ÿ“Ø Fox.Soft2CN.CoM
+
+:SysInfo:CPU:         12th Gen Intel(R) Core(TM) i7-12650H(MMX/MMX2/SSE)
+:SysInfo:OsVersion:   WindowsNT(unknown)
+:SysInfo:FileVersion: [msvcrt.dll]   7.0.22621.2506
+:SysInfo:FileVersion: [msvcp60.dll]  6.0.8972.0
+:SysInfo:FileVersion: [winmm.dll]    10.0.22621.3527
+:SysInfo:FileVersion: [user32.dll]   10.0.22621.3527
+:SysInfo:FileVersion: [gdi32.dll]    10.0.22621.3085
+:SysInfo:FileVersion: [kernel32.dll] 10.0.22621.3527
+:SysInfo:FileVersion: [comctl32.dll] 6.10.22621.3527
+:SysInfo:FileVersion: [shell32.dll]  10.0.22621.3527
+:SysInfo:FileVersion: [shlwapi.dll]  10.0.22621.3527
+:SysInfo:FileVersion: [hha.dll]      x.x.x.x
+

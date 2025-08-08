@@ -1,0 +1,151 @@
+END-USER LICENSE AGREEMENT FOR MoleBox/MoleBox Pro
+
+This  license agreement ("EULA")  is  a legal agreement  between  you, 
+either  an individual or  a single entity,  and Teggo  concerning  the 
+software  identified  above,  which  includes   executable  files  and
+accompanying  printed,  on-line   or  other  electronic  documentation 
+("SOFTWARE"). The SOFTWARE also includes  any updates and  supplements  
+to original SOFTWARE provided to you.
+
+By installing, copying, running, or otherwise using the SOFTWARE,  you
+agree to be bound by the terms of this license. If you do not agree to 
+the terms of this license, you must remove all MoleBox files from your
+computer.
+
+
+COPYRIGHT
+
+All  copyrights    to    the  SOFTWARE   are  exclusively   owned   by 
+Teggo.  All rights not expressly granted  here  are reserved by Teggo. 
+
+This  SOFTWARE  is  protected  by  copyright  laws  and  international 
+copyright treaties,  as well as  other  intellectual property laws and 
+treaties.  The SOFTWARE is licensed, not sold.
+
+
+GRANT OF LICENSE
+
+1. Installation and Use
+
+You  are  granted  a right  to  install  the  SOFTWARE  and  use it in 
+accordance  with the terms  of this EULA, in order to process your own
+applications with the SOFTWARE.
+
+2. Trial version
+
+The trial (unregistered)  version  of MoleBox  is intended  solely for
+evaluation purposes. You can freely download it  from the official web 
+site,  install  and  evaluate  during  the 15 day period.  You are not 
+allowed to distribute the software processed with trial version. After
+the trial period  is expired,  if you wish  to continue using MoleBox,
+you must register it. 
+
+
+3. Registered version
+
+In order  to use  the SOFTWARE for your  commercial purposes, you must 
+register. 
+
+Registration of MoleBox  gives you the following non-exclusive rights:
+- to download the full version of the SOFTWARE, 
+- to install and use the SOFTWARE for your commercial purposes, 
+- to download free updates from our web-site,
+- to receive information about software updates via e-mail,
+- to receive free technical support via e-mail. 
+
+When you purchase your copy of the SOFTWARE, you'll receive a download 
+link for the full version  and a personal registration code via e-mail 
+you provided.
+
+
+4. License types
+
+MoleBox STANDARD: Allows  to use  MoleBox  standard  (feature-limited)
+	version. Only for usage by  independent  software  developers. 
+	This license allows  to distribute  moleboxed applications  on 
+	behalf of a person. If you're  a self-employed  or independent 
+	software developer, and functionality in MoleBox Standard fits 
+	your requirements, choose this license type. 
+
+MoleBox PRO, single developer license: Allows  one  software developer 
+	to use MoleBox Pro,  on any number  of computers. This license 
+	offers advanced functionality for independent developers. This 
+	license allows  to distribute moleboxed applications on behalf 
+	of a person.
+
+MoleBox PRO, company license: Allows any number of developers from the
+	same company  to use  MoleBox Pro. If you represent a company,
+	or a group  or team  of developers,  choose this license type. 
+	This license allows  to distribute  moleboxed applications  on 
+	behalf of a team or company.
+
+
+
+5. Upgrades policy
+
+The latest  trial version  of the SOFTWARE  can be  freely  downloaded 
+from the official web site. 
+
+Registered users may download the latest full version  of the SOFTWARE
+from the link provided in the registration letter. 
+
+Registered users  of the version 2.0 are entitled  to receive upgrades
+up to version 2.x.x  without any additional charges.  Further upgrades 
+may be received by a discounted price.
+
+
+6. Redistribution of the SOFTWARE
+
+You are allowed to make  as many copies  of the  SOFTWARE installation 
+package as you wish. Teggo allows and encourages magazines, web sites, 
+bulletin  board  systems,  and  end-users  to  freely  distribute  the 
+installation package  of the  trial version  of the  SOFTWARE  via any 
+electronic means  with the following restrictions:
+
+- the authors and origin of the SOFTWARE must be clearly stated;
+- the content of the installation package cannot be modified;
+- this EULA may not be removed from or altered in a redistributed 
+package.
+
+No person or company may charge a fee for the distribution of the 
+SOFTWARE without written permission from the copyright holder.
+
+No person or company may distribute the installation package of the 
+full version on the SOFTWARE.
+
+
+LIMITATIONS
+
+1. License transfer
+You may not  rent,  lease, sell,  or transfer  your license to another 
+person  or  company  without  written  permission  from  the copyright 
+holder.  You may not share your registration code  with another person 
+or company.
+
+2. Reverse engineering
+You may not use, copy, emulate, clone, modify, decompile, disassemble, 
+otherwise reverse engineer the SOFTWARE,  or any of it's parts, except 
+as provided by this agreement.  Any such unauthorized use  will result 
+in immediate and automatic termination of this license agreement.
+
+
+LIMITATION OF LIABILITY
+
+This SOFTWARE  is  distributed  "as is".  No warranty  of any kind  is 
+expressed  or implied.  You use it  at your own risk.  The author will 
+not be liable  for data loss,  damages,  loss of profits  or any other 
+kind of loss while using or misusing this software.
+
+Teggo does not  guarantee  that  SOFTWARE  is  error  free. Teggo does 
+not guarantee  that  this  SOFTWARE  meets your personal requirements.
+
+Thank you  for using the SOFTWARE in accordance with the terms of this 
+EULA.
+
+
+CONTACT INFORMATION
+
+Official MoleBox web site: http://wwww.MoleBox.com/
+Online forum:              http://devforum.teggo.com/
+Support e-mail:            support@molebox.com
+
